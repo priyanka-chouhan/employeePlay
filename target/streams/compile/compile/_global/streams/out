@@ -1,0 +1,5 @@
+[error] D:\play-samples-play-java-starter-example\conf\routes:14:1: missing argument list for method authenticateUser in class LoginController
+[error] Unapplied methods are only converted to functions when a function type is expected.
+[error] You can make this conversion explicit by writing `authenticateUser _` or `authenticateUser(_)` instead of `authenticateUser`.
+[error] POST	/login						controllers.LoginController.authenticateUser
+[error] one error found
